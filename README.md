@@ -1,1 +1,2 @@
 # Deep-Learning-with-Pytorch
+This project involves building and training three different models—Logistic Regression, Feedforward Neural Network (FNN), and Convolutional Neural Network (CNN)—to classify MNIST dataset images. The models are trained and evaluated using accuracy metrics, with CNN achieving the highest accuracy. The project also includes data preprocessing, visualization of label distributions, and the creation of a confusion matrix for detailed performance analysis.
